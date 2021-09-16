@@ -1,0 +1,12 @@
+{
+  "name": "@deepchannel/eslint-config",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.25.0",
+    "@typescript-eslint/parser": "^4.25.0"
+  },
+  "peerDependencies": {
+    "eslint": "7.x.x"
+  }
+}

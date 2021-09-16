@@ -1,2 +1,3 @@
 # eslint-config
-eslint config used in DeepChannel
+
+This package provides DeepChannel's base TS .eslintrc
