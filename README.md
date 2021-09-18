@@ -1,6 +1,6 @@
 # `@deepchannel/eslint-config`
 
-This package provides DeepChannel's base TS .eslintrc
+This package provides Deep Channel's base TS .eslintrc
 
 ## Install
 
