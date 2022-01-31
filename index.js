@@ -18,9 +18,10 @@ module.exports = {
     },
   ],
   rules: {
+    "no-debugger": ["warn"],
     "no-console": ["warn"],
     eqeqeq: ["warn", "smart"],
-    "no-implicit-coercion": "warn",
+    "no-implicit-coercion": ["warn"],
     "@typescript-eslint/strict-boolean-expressions": [
       "warn",
       {
