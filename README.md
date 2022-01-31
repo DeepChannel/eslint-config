@@ -7,13 +7,13 @@ This package provides Deep Channel's base TS .eslintrc
 Install this package:
 
 ```
-npm i -D github:deepchannel/eslint-config#v0.0.1
+npm i -D github:deepchannel/eslint-config#x.y.z
 ```
 
 You should install required peer dependencies which can be listed using this:
 
 ```
-npm info "github:deepchannel/eslint-config#v0.0.1" peerDependencies
+npm info "github:deepchannel/eslint-config#x.y.z" peerDependencies
 ```
 
 ## Usage:
